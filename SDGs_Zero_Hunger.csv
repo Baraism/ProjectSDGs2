@@ -1,0 +1,171 @@
+IdNegara,NamaNegara,2021,2022,2023,ZeroHungerGoalsScore,Kategori
+1,Indonesia,31,33.5,32,37,Sedang
+2,Malaysia,28,29,30,37,Parah
+3,Singapura,39,39.5,40,37,Aman
+4,Thailand,35,36,34.5,37,Sedang
+5,Filipina,25,26.5,28,37,Parah
+6,Vietnam,32,34,33.5,37,Sedang
+7,Kamboja,24.5,25,26,37,Parah
+8,Laos,30,31.5,29.5,37,Sedang
+9,Myanmar,23,24.5,25.5,37,Parah
+10,Brunei,38,39,40,37,Aman
+11,Argentina,36,35.5,34,37,Sedang
+12,Australia,39,38.5,39.5,37,Aman
+13,Brazil,29,30,28.5,37,Parah
+14,Canada,37.5,38,39,37,Aman
+15,Chile,31.5,33,32.5,37,Sedang
+16,China,33.5,32,31,37,Sedang
+17,Colombia,27,26.5,28,37,Parah
+18,Egypt,34.5,33,32.5,37,Sedang
+19,France,38.5,39.5,40,37,Aman
+20,Germany,36,37,38,37,Sedang
+21,India,32,33,31.5,37,Sedang
+22,Italy,38,39,40,37,Aman
+23,Japan,37,38,39,37,Aman
+24,Kenya,30,31.5,29.5,37,Sedang
+25,Mexico,32.5,33,32,37,Sedang
+26,Netherlands,39,38.5,39.5,37,Aman
+27,New Zealand,39.5,40,40,37,Aman
+28,Nigeria,25.5,26,27,37,Parah
+29,Pakistan,29.5,30,31,37,Parah
+30,Peru,34,33,32.5,37,Sedang
+31,Poland,38,39,40,37,Aman
+32,Russia,30.5,31,32,37,Sedang
+33,Saudi Arabia,35.5,36,35,37,Sedang
+34,South Africa,33.5,34,33,37,Sedang
+35,South Korea,38.5,39,40,37,Aman
+36,Spain,37,38,39,37,Aman
+37,Sweden,39,40,40,37,Aman
+38,Turkey,31,32,33,37,Sedang
+39,United Kingdom,38,39,40,37,Aman
+40,United States,36.5,37,38,37,Sedang
+41,Venezuela,27.5,26,28.5,37,Parah
+42,Zambia,24,25,23.5,37,Parah
+43,Zimbabwe,26.5,27,25.5,37,Parah
+44,Afghanistan,27,28,29,37,Parah
+45,Albania,30.5,31.5,32,37,Sedang
+46,Algeria,32,33,32.5,37,Sedang
+47,Andorra,38,39,40,37,Aman
+48,Angola,28.5,29,27.5,37,Parah
+49,Armenia,31,32,33,37,Sedang
+50,Azerbaijan,32,31.5,30.5,37,Sedang
+51,Bahamas,37,38,39,37,Aman
+52,Bahrain,34,33.5,32.5,37,Sedang
+53,Bangladesh,28.5,29,30,37,Parah
+54,Barbados,37.5,39,39.5,37,Aman
+55,Belarus,36,37,38,37,Sedang
+56,Belgium,38.5,39,39.5,37,Aman
+57,Benin,29,30.5,31,37,Parah
+58,Bhutan,30,31.5,32,37,Sedang
+59,Bosnia and Herzegovina,32.5,33,32,37,Sedang
+60,Botswana,30,31,30.5,37,Sedang
+63,Bulgaria,33,34.5,32.5,37,Sedang
+64,Burkina Faso,25,26,27,37,Parah
+65,Burundi,22.5,23,22,37,Parah
+66,Cabo Verde,37,38.5,39,37,Aman
+67,Cambodia,24.5,25.5,26,37,Parah
+68,Cameroon,31,32,31.5,37,Sedang
+70,Central African Republic,26,25.5,27.5,37,Parah
+71,Chad,24.5,25.5,24,37,Parah
+75,Comoros,26.5,25.5,27,37,Parah
+76,Costa Rica,33,34,33.5,37,Sedang
+77,Croatia,35.5,36,35,37,Sedang
+78,Cuba,29.5,30,28.5,37,Parah
+79,Cyprus,37,38,39,37,Aman
+80,Czech Republic,37.5,38,38.5,37,Aman
+81,Denmark,38.5,39,40,37,Aman
+82,Djibouti,28,29,27.5,37,Parah
+83,Dominica,37.5,39,40,37,Aman
+84,Dominican Republic,33.5,34,33,37,Sedang
+85,Ecuador,31,32.5,32,37,Sedang
+87,El Salvador,28.5,29,28,37,Parah
+88,Equatorial Guinea,27,28,27.5,37,Parah
+89,Eritrea,26.5,27,26,37,Parah
+90,Estonia,37,38,39.5,37,Aman
+91,Eswatini,30.5,31,32,37,Sedang
+92,Ethiopia,28.5,27,28,37,Parah
+93,Fiji,37,38,39,37,Aman
+94,Finland,39,39.5,40,37,Aman
+96,Gabon,29,28.5,29.5,37,Parah
+97,Gambia,26.5,27,27,37,Parah
+98,Georgia,34,35,34.5,37,Sedang
+100,Ghana,31,32.5,32,37,Sedang
+101,Grenada,37.5,38,39,37,Aman
+102,Guatemala,31,30.5,32,37,Sedang
+103,Guinea,25,26.5,27,37,Parah
+104,Guinea-Bissau,24,25,24.5,37,Parah
+105,Guyana,30,31.5,30,37,Sedang
+106,Haiti,28.5,27,29.5,37,Parah
+107,Honduras,29.5,28,29,37,Parah
+108,Hungary,38,39,40,37,Aman
+109,Iceland,39.5,40,40,37,Aman
+112,Iran,32.5,31,32,37,Sedang
+113,Iraq,30,31.5,32,37,Sedang
+114,Ireland,38,39,40,37,Aman
+115,Israel,37,37.5,38,37,Aman
+117,Jamaica,35,36,35.5,37,Sedang
+119,Jordan,33,34,32.5,37,Sedang
+120,Kazakhstan,33,32.5,32,37,Sedang
+122,Kiribati,26.5,27,27.5,37,Parah
+123,Kuwait,37.5,38.5,39,37,Aman
+124,Kyrgyzstan,31,32,30.5,37,Sedang
+126,Latvia,38.5,39,39.5,37,Aman
+127,Lebanon,34,33.5,32,37,Sedang
+128,Lesotho,27.5,28,28.5,37,Parah
+129,Liberia,25.5,26,27,37,Parah
+130,Libya,30,31,32.5,37,Sedang
+131,Liechtenstein,39.5,40,40,37,Aman
+132,Lithuania,38.5,39,39.5,37,Aman
+133,Luxembourg,39,40,39.5,37,Aman
+134,Madagascar,28,27.5,28.5,37,Parah
+135,Malawi,27.5,28,29,37,Parah
+137,Maldives,38,38.5,39,37,Aman
+138,Mali,25.5,26,26.5,37,Parah
+139,Malta,39,39.5,40,37,Aman
+140,Marshall Islands,27,28,27.5,37,Parah
+141,Mauritania,30.5,31,32,37,Sedang
+142,Mauritius,37,38,39,37,Aman
+144,Micronesia,26,27,27.5,37,Parah
+145,Moldova,30,31,32.5,37,Sedang
+146,Monaco,39,40,40,37,Aman
+147,Mongolia,33,32.5,31.5,37,Sedang
+148,Montenegro,37.5,38,39,37,Aman
+149,Morocco,34.5,34,33.5,37,Sedang
+150,Mozambique,27,28,29,37,Parah
+152,Namibia,30,31,32,37,Sedang
+153,Nauru,27,28,29,37,Parah
+154,Nepal,31,32.5,30,37,Sedang
+157,Nicaragua,30.5,31.5,32,37,Sedang
+158,Niger,25,24.5,26,37,Parah
+160,North Korea,28,27.5,28.5,37,Parah
+161,North Macedonia,36.5,37,37.5,37,Sedang
+162,Norway,39.5,40,40,37,Aman
+163,Oman,37,37.5,38,37,Aman
+165,Palau,37,38,39,37,Aman
+166,Panama,33.5,34,35,37,Sedang
+167,Papua New Guinea,27.5,26,28,37,Parah
+168,Paraguay,30.5,31.5,30,37,Sedang
+170,Philippines,33,32.5,34,37,Sedang
+172,Portugal,38.5,39,40,37,Aman
+173,Qatar,39,39.5,40,37,Aman
+174,Romania,36,37,38,37,Sedang
+176,Rwanda,31.5,30.5,32,37,Sedang
+177,Saint Kitts and Nevis,37,38,39,37,Aman
+178,Saint Lucia,37.5,38,39,37,Aman
+179,Saint Vincent and the Grenadines,38,38.5,39,37,Aman
+180,Samoa,37,38,39,37,Aman
+181,San Marino,40,40,40,37,Aman
+182,FALSE,28.5,29.5,29,37,Parah
+184,Senegal,33.5,34,33,37,Sedang
+185,Serbia,37,38,39.5,37,Aman
+186,Seychelles,38.5,39,39.5,37,Aman
+187,Sierra Leone,25.5,26,27,37,Parah
+188,Singapore,39,39.5,40,37,Aman
+189,Slovakia,38,39,39.5,37,Aman
+190,Slovenia,39,39.5,40,37,Aman
+191,Solomon Islands,28.5,29,30,37,Parah
+192,Somalia,25,25.5,26,37,Parah
+195,South Sudan,24,25,24.5,37,Parah
+197,Sri Lanka,31,32,32.5,37,Sedang
+198,Sudan,27.5,28,28.5,37,Parah
+199,Suriname,30.5,31.5,32,37,Sedang
